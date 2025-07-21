@@ -318,7 +318,7 @@ Only after you have many services and need uniform traffic policies, mTLS, retri
 
 ---
 
-## 17. Day 2 Takeaways
+## 17. Takeaways
 
 - Monoliths are *fine*—until scaling, velocity, or reliability pains demand modularity.
 - A **Modular Monolith** is the safest on-ramp to microservices.
@@ -328,18 +328,4 @@ Only after you have many services and need uniform traffic policies, mTLS, retri
 
 ---
 
-## 18. What’s Next (Day 3 Preview)
-
-**Data & Integration Strategies Across Services** – Bounded contexts, data replication, event-driven consistency, and patterns like Saga, Outbox, and CQRS.
-
----
-
-### Publishing & Sharing
-
-- **Day 1 Guide (GitHub):** [https://github.com/vinod83k/learn-architecture/blob/main/day\_1\_software\_architecture\_guide.md](https://github.com/vinod83k/learn-architecture/blob/main/day_1_software_architecture_guide.md)
-- **Day 2 Guide:** *(Add link once you create it; suggest: **`day_2_monolith_to_microservices_guide.md`**)*
-
----
-
-*Generated on: 21-Jul-2025 (Asia/Kolkata)*
 
