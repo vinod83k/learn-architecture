@@ -213,11 +213,5 @@ Database (SQL/NoSQL)
 
 ---
 
-## 🚀 Coming Next:
-
-On Day 4, we’ll explore **API Gateway, BFF (Backend for Frontend), and Edge Architecture**: how clients interact with services and how to design *external-facing entry points*.
-
----
-
 Happy architecting! 📊
 
